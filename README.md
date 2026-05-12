@@ -1,5 +1,6 @@
 Land Use/Land Cover (LULC) Classification: Grand River Grassland Study
 Master's Thesis | University of Missouri
+
 📌 Project Overview
 Effective land management requires a precise understanding of current land cover and usage. This study implements a comparative LULC classification within the Grand River Grasslands (GRG) in Harrison County, Missouri—a critical site for tallgrass prairie restoration.
 
